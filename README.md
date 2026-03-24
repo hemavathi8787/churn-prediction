@@ -24,7 +24,7 @@ churn-prediction/
 ├── src/
 │ ├── clean.py # Data cleaning
 │ ├── features.py # Feature engineering
-│ ├── pipeline.py # sklearn pipeline
+│ ├── pipeline.py # Scikit-learn pipeline
 │ ├── train.py # Model training + MLflow logging
 │ ├── api.py # FastAPI serving
 │ └── monitor.py # Evidently drift monitoring
